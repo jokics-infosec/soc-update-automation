@@ -120,3 +120,6 @@ pcap/
 !.env.sample
 !config-template.yaml
 !requirements.txt
+
+# Cursor AI specific files
+.cursor/
